@@ -2,9 +2,9 @@ package basic.regression;
 
 import org.junit.jupiter.api.Test;
 
-public class ProfileUploadAvatar {
+public class ProfileUploadDeliteAvatar {
     @Test
     public void printMessage() {
-        System.out.println("Upload avatar");
+        System.out.println("Upload avatar and Delete");
     }
 }
